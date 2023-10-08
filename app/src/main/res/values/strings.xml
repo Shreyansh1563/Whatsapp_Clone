@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Whatsapp Clone</string>
+    <string name="whatsApp">WhatsApp</string>
+<!--    =======OPTION MENU==============================-->
+    <string name="search_opt">Search</string>
+    <string name="camera_opt">Camera</string>
+    <string name="newGroup_opt">New group</string>
+    <string name="newBroadcast_opt">New broadcast</string>
+    <string name="linkedDevices_opt">Linked devices</string>
+    <string name="starredMessages_opt">Starred messages</string>
+    <string name="payment_opt">Payment</string>
+    <string name="setting_opt">Settings</string>
+<!--    ================================================-->
+</resources>
